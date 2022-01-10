@@ -19,6 +19,7 @@ const App = () => {
   return (
     <View style={{flex:1, justifyContent:'center', alignItems:'center'}}>
       <Text style={{fontSize:50, fontWeight:'bold'}} >myTutor App</Text>
+      <Text style={{fontSize:20, fontStyle:'italic'}} >find your home tutor</Text>
     </View>
   );
 };
